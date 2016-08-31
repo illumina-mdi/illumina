@@ -13,7 +13,605 @@
     "publishPath": "file:///Users/brian/Desktop/Illumina/Website/illumina-gh"
   },
   "pages": {
-    "index.html": {
+    "Ilumina.html": {
+      "settings": {
+        "title": "About Illumina"
+      },
+      "components": [
+        {
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          },
+          "_anchor": "features1-0",
+          "_params": {
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/1397676-524647490960153-1009792802-o-600x397-64.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "URBAN ILLUMINA",
+          "subtitle1": "",
+          "caption1": "Urban Illumina is held at MDI campus in the form of a Diwali mela with visitors from across various walks of life",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/905895-909991859092379-286357517770538081-o-600x400-49.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "RURAL ILLUMINA",
+          "subtitle2": "",
+          "caption2": "Rural Illumina is a market research conducted during the famous Dussehra Mela at Pataudi, which gives us an opportunity to study rural consumers",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/12194521-913998692025029-1461843339320940615-o-2-600x398-33.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "MALL ILLUMINA",
+          "subtitle3": "",
+          "caption3": "The idea behind Mall Illumina is to conduct market research on mall going consumers",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/1417496-524497950975107-250067304-o-600x397-67.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "EXPRESSIONS",
+          "subtitle4": "",
+          "caption4": "Expressions is an event exclusively for children aged 6-16, to get their insights for research",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-family": "'Indie Flower', cursive"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": "0.85",
+            "fontName": {
+              "name": "Indie Flower",
+              "url": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "css": "'Indie Flower', cursive"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "#c0a375",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-125x128-3.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ILLUMINA</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-2\">ABOUT MDI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Ilumina.html\">ILLUMINA, 2016</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-0\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">SPONSORS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Team.html\">TEAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\"><span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-0",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Illumina."
+        },
+        {
+          "_name": "contacts1",
+          "_anchor": "contacts1-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-128x130-65.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>Management Development Institute,<br>Sukhrali, Gurgaon, 122007",
+          "text2": "<strong>Contacts</strong><br>\nEmail: illumina@mdi.ac.in<br>\nPhone:&nbsp;+91 -8588905231<br>",
+          "text3": ""
+        }
+      ]
+    },
+    "Team.html": {
+      "settings": {
+        "title": "Team Illumina"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center"
+            }
+          },
+          "_name": "content5",
+          "_anchor": "content5-0",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": false
+          },
+          "title": "MEET OUR AWESOME TEAM",
+          "caption": ""
+        },
+        {
+          "_inherit": "gallery1",
+          "_name": "gallery3",
+          "_params": {
+            "spacing": 1,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Sponsorship",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Akshey",
+                "active": false
+              },
+              {
+                "tags": "Event Management",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Deepawal",
+                "active": false
+              },
+              {
+                "tags": "Event Management",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Deval",
+                "active": false
+              },
+              {
+                "tags": "Market Research",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Naman",
+                "active": false
+              },
+              {
+                "tags": "Market Research",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Nipun",
+                "active": false
+              },
+              {
+                "tags": "Creativity",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Pushkar",
+                "active": false
+              },
+              {
+                "tags": "Event Management",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Rupsi",
+                "active": false
+              },
+              {
+                "tags": "Event Management",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Sakshi",
+                "active": false
+              },
+              {
+                "tags": "Sponsorship",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Sanil",
+                "active": false
+              },
+              {
+                "tags": "Event Management",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Shivi",
+                "active": false
+              },
+              {
+                "tags": "Creativity",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Surbhi",
+                "active": true
+              }
+            ],
+            "showText": true,
+            "filter": true,
+            "bgColor": "#000000",
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-0",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-family": "'Indie Flower', cursive"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": "0.85",
+            "fontName": {
+              "name": "Indie Flower",
+              "url": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "css": "'Indie Flower', cursive"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "#c0a375",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-125x128-3.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ILLUMINA</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-2\">ABOUT MDI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Ilumina.html\">ILLUMINA, 2016</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-0\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">SPONSORS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Team.html\">TEAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\"><span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-0",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Illumina."
+        },
+        {
+          "_name": "contacts1",
+          "_anchor": "contacts1-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-128x130-65.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>Management Development Institute,<br>Sukhrali, Gurgaon, 122007",
+          "text2": "<strong>Contacts</strong><br>\nEmail: illumina@mdi.ac.in<br>\nPhone:&nbsp;+91 -8588905231<br>",
+          "text3": ""
+        }
+      ]
+    },
+    "Index.html": {
       "settings": {
         "main": true,
         "title": "Illumina 2016",
@@ -199,7 +797,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ILLUMINA</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-2\">ABOUT MDI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Ilumina.html\">ILLUMINA, 2016</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-0\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">SPONSORS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">TEAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\"><span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-2\">ABOUT MDI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Ilumina.html\">ILLUMINA, 2016</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-0\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">SPONSORS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Team.html\">TEAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\"><span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
@@ -460,309 +1058,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-128x130-65.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Address</strong><br>Management Development Institute,<br>Sukhrali, Gurgaon, 122007",
-          "text2": "<strong>Contacts</strong><br>\nEmail: illumina@mdi.ac.in<br>\nPhone:&nbsp;+91 -8588905231<br>",
-          "text3": ""
-        },
-        {
-          "twitterName": "illumina_mdi",
-          "twitterUrlValue": "https://twitter.com/illumina_mdi",
-          "twitterColor": "light",
-          "alias": "twitter-feed",
-          "_name": "twitter-feed-block",
-          "_anchor": "twitter-feed-block-0",
-          "_params": {
-            "twitterUrl": "https://twitter.com/illumina_mdi",
-            "twitterWidth": "450",
-            "twitterHeight": "890",
-            "darkTheme": false,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#7e9b9f",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
-          },
-          "innerText": "<a class=\"twitter-timeline\" href=\"https://twitter.com/illumina_mdi\" data-widget-id=\"670227744614187012\" data-screen-name=\"illumina_mdi\" data-theme=\"light\" width=\"450\" height=\"890\">Tweets by @illumina_mdi</a>"
-        }
-      ]
-    },
-    "Ilumina.html": {
-      "settings": {
-        "title": "About Illumina"
-      },
-      "components": [
-        {
-          "_name": "features1",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
-            }
-          },
-          "_anchor": "features1-0",
-          "_params": {
-            "columnsColor": "#2e2e2e",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": 4,
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": false
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/1397676-524647490960153-1009792802-o-600x397-64.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "URBAN ILLUMINA",
-          "subtitle1": "",
-          "caption1": "Urban Illumina is held at MDI campus in the form of a Diwali mela with visitors from across various walks of life",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/905895-909991859092379-286357517770538081-o-600x400-49.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title2": "RURAL ILLUMINA",
-          "subtitle2": "",
-          "caption2": "Rural Illumina is a market research conducted during the famous Dussehra Mela at Pataudi, which gives us an opportunity to study rural consumers",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/12194521-913998692025029-1461843339320940615-o-2-600x398-33.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title3": "MALL ILLUMINA",
-          "subtitle3": "",
-          "caption3": "The idea behind Mall Illumina is to conduct market research on mall going consumers",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/1417496-524497950975107-250067304-o-600x397-67.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title4": "EXPRESSIONS",
-          "subtitle4": "",
-          "caption4": "Expressions is an event exclusively for children aged 6-16, to get their insights for research",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-family": "'Indie Flower', cursive"
-            },
-            ".link": {
-              "font-size": "0.85rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.921rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "#c0a375"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "#c0a375"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".btn": {
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
-            }
-          },
-          "_name": "menu",
-          "_anchor": "menu-0",
-          "_params": {
             "bgColor": "#000000",
-            "fontSize": "0.85",
-            "fontName": {
-              "name": "Indie Flower",
-              "url": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "css": "'Indie Flower', cursive"
-            },
-            "fontColor": "#ffffff",
-            "fontHoverColor": "#c0a375",
-            "transparent": false,
-            "sticky": false,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-125x128-3.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ILLUMINA</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-2\">ABOUT MDI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Ilumina.html\">ILLUMINA, 2016</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-0\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">SPONSORS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">TEAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\"><span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_name": "footer1",
-          "_anchor": "footer1-0",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2016 Illumina."
-        },
-        {
-          "_name": "contacts1",
-          "_anchor": "contacts1-0",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
