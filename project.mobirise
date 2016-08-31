@@ -10,7 +10,7 @@
     },
     "scrollAnimation": "true",
     "publishType": "local",
-    "publishPath": "file:///Users/brian/Desktop/Illumina/Website/illumina"
+    "publishPath": "file:///Users/brian/Desktop/Illumina/Website/illumina-gh"
   },
   "pages": {
     "index.html": {
@@ -485,44 +485,6 @@
           "text1": "<strong>Address</strong><br>Management Development Institute,<br>Sukhrali, Gurgaon, 122007",
           "text2": "<strong>Contacts</strong><br>\nEmail: illumina@mdi.ac.in<br>\nPhone:&nbsp;+91 -8588905231<br>",
           "text3": ""
-        },
-        {
-          "_inherit": "gallery1",
-          "_name": "gallery3",
-          "_params": {
-            "spacing": 1,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "images": [
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-4690-2000x3113-43-2000x3113-82.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-4690-2000x3113-43.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Bakar",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dscf3857-2000x1333-9-2000x1333-31.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dscf3857-2000x1333-9.jpg",
-                "caption": "Type caption here",
-                "active": true
-              }
-            ],
-            "showText": true,
-            "filter": true,
-            "bgColor": "#000000",
-            "fullWidth": true,
-            "showBullets": true
-          },
-          "_anchor": "gallery3-0",
-          "articleLayout": false
         },
         {
           "twitterName": "illumina_mdi",
