@@ -31,14 +31,14 @@
             "H3": {
               "color": "#ffffff",
               "text-align": "right",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           },
           "_name": "header3",
           "_anchor": "header3-0",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "3",
             "paddingBottom": 1,
             "bgColor": "#000000",
             "showMeta": false
@@ -56,7 +56,7 @@
           "_anchor": "msg-box8-0",
           "_params": {
             "paddingTop": 4,
-            "paddingBottom": 3,
+            "paddingBottom": "3",
             "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/illumina.gif",
@@ -87,7 +87,7 @@
           "_name": "social-buttons4",
           "_anchor": "social-buttons4-0",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
@@ -99,17 +99,7 @@
             "overlayColor": "#222"
           },
           "text": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://www.facebook.com/mdi.illumina\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCMzMGsW3Lj51N2myXytfBNw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.instagram.com/Illumina_mdi/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://twitter.com/illumina_mdi\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>      "
-        },
-        {
-          "_name": "buttons1",
-          "_anchor": "buttons1-1",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "2",
-            "bgColor": "#000000"
-          },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"index.html#header1-1\" data-toolbar=\"-mbrBtnMove\">CONTINUE</a>"
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/illumina_mdi\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/mdi.illumina\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCMzMGsW3Lj51N2myXytfBNw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/Illumina_mdi/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
         },
         {
           "_styles": {
@@ -123,13 +113,15 @@
               "color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-family": "'Indie Flower', cursive"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "#c0a375"
@@ -165,21 +157,29 @@
             },
             ".close-icon::before, .close-icon::after": {
               "background-color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
             }
           },
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": 0.75,
-            "fontName": {},
+            "fontSize": "0.85",
+            "fontName": {
+              "name": "Indie Flower",
+              "url": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "css": "'Indie Flower', cursive"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "#c0a375",
-            "transparent": true,
-            "sticky": true,
+            "transparent": false,
+            "sticky": false,
             "logo": true,
             "showBrand": true,
-            "collapsed": false,
+            "collapsed": true,
             "hideButtons": true
           },
           "logo": {
@@ -648,13 +648,15 @@
               "color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-family": "'Indie Flower', cursive"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "#c0a375"
@@ -690,21 +692,29 @@
             },
             ".close-icon::before, .close-icon::after": {
               "background-color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
             }
           },
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": 0.75,
-            "fontName": {},
+            "fontSize": "0.85",
+            "fontName": {
+              "name": "Indie Flower",
+              "url": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "css": "'Indie Flower', cursive"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "#c0a375",
-            "transparent": true,
-            "sticky": true,
+            "transparent": false,
+            "sticky": false,
             "logo": true,
             "showBrand": true,
-            "collapsed": false,
+            "collapsed": true,
             "hideButtons": true
           },
           "logo": {

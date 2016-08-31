@@ -1,4 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+
+
 
 #header3-0 .mbr-section-title,
 #header3-0 .mbr-section-subtitle {
@@ -7,7 +10,7 @@
 #header3-0 H3 {
   color: #ffffff;
   text-align: right;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 #msg-box8-0 .mbr-section-title,
 #msg-box8-0 p {
@@ -29,13 +32,14 @@
 #menu-0 .link,
 #menu-0 .dropdown-item {
   color: #ffffff;
+  font-family: 'Indie Flower', cursive;
 }
 #menu-0 .link {
-  font-size: 0.75rem;
+  font-size: 0.85rem;
 }
 #menu-0 .dropdown-item,
 #menu-0 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.921rem;
 }
 #menu-0 .link:hover,
 #menu-0 .dropdown-item:hover,
@@ -83,6 +87,9 @@
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
+}
+#menu-0 .btn {
+  font-family: 'Indie Flower', cursive;
 }
 #header1-1 H1 {
   font-size: 48px;
@@ -100,6 +107,8 @@
 #slider3-0 H2 {
   text-align: center;
 }
+
+
 #features1-0 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
 }
@@ -115,13 +124,14 @@
 #menu-0 .link,
 #menu-0 .dropdown-item {
   color: #ffffff;
+  font-family: 'Indie Flower', cursive;
 }
 #menu-0 .link {
-  font-size: 0.75rem;
+  font-size: 0.85rem;
 }
 #menu-0 .dropdown-item,
 #menu-0 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.921rem;
 }
 #menu-0 .link:hover,
 #menu-0 .dropdown-item:hover,
@@ -169,4 +179,7 @@
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
+}
+#menu-0 .btn {
+  font-family: 'Indie Flower', cursive;
 }
