@@ -19,21 +19,61 @@
       },
       "components": [
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
+              "font-size": "72px"
+            },
+            ".lead P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-0",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#b8312f",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "ILLUIMNA, 2016",
+          "text": "<p>The Disguised Market Research Festival of MDI, Gurgaon</p><p><i>Celebrating 20 Years of Excellence</i></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
           "_name": "features1",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
+              "background-color": "#faaf40"
             }
           },
           "_anchor": "features1-0",
           "_params": {
-            "columnsColor": "#2e2e2e",
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "columnsColor": "#faaf40",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#00a885",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -42,11 +82,11 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": 4,
+            "columns": "4",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
-            "ShowTexts": true,
+            "ShowTexts": false,
             "showButtons": false
           },
           "media1": {
@@ -61,7 +101,7 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "URBAN ILLUMINA",
+          "title1": "<a href=\"Ilumina.html#msg-box7-0\" class=\"text-black\">URBAN ILLUMINA</a>",
           "subtitle1": "",
           "caption1": "Urban Illumina is held at MDI campus in the form of a Diwali mela with visitors from across various walks of life",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -77,7 +117,7 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "RURAL ILLUMINA",
+          "title2": "<a href=\"Ilumina.html#msg-box7-1\">RURAL ILLUMINA</a>",
           "subtitle2": "",
           "caption2": "Rural Illumina is a market research conducted during the famous Dussehra Mela at Pataudi, which gives us an opportunity to study rural consumers",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
@@ -93,7 +133,7 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "MALL ILLUMINA",
+          "title3": "<a href=\"Ilumina.html#msg-box7-2\" class=\"text-black\">MALL ILLUMINA</a>",
           "subtitle3": "",
           "caption3": "The idea behind Mall Illumina is to conduct market research on mall going consumers",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
@@ -109,7 +149,7 @@
               "linkInNewWindow": false
             }
           },
-          "title4": "EXPRESSIONS",
+          "title4": "<a href=\"Ilumina.html#msg-box7-3\">EXPRESSIONS</a>",
           "subtitle4": "",
           "caption4": "Expressions is an event exclusively for children aged 6-16, to get their insights for research",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
@@ -254,6 +294,217 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Illumina."
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            }
+          },
+          "_name": "msg-box7",
+          "_anchor": "msg-box7-0",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1397676-524647490960153-1009792802-o-2000x1325-8.jpg",
+            "bgColor": "#2969b0",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/905895-909991859092379-286357517770538081-o-1400x933-31.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": "on"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "linkInNewWindow": false,
+              "name": "book-open",
+              "family": "et-line",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "URBAN ILLUMINA",
+          "text": "Sample &nbsp;Text.Sample  TextSample  TextSample  TextSample  TextSample  TextSample  TextSample  TextSample  TextSample  TextSample  TextSample  TextSample  TextSample  TextSample  TextSample <br>le<br>  TextSample  TextSample  TextSam<br><br><br><br><br>ple  TextSample  TextSample  TextSample  TextSample  TextSample  TextSa<br><br><span style=\"font-size: 1.07rem; line-height: 1.5;\">mple  TextSample  TextSample  TextSample  TextSample  TextSample  TextSample  TextSample  TextSample  Tex</span><br><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">tSample  TextSample  TextSample  TextSample  TextSample  TextSample  TextSample  TextSample  TextSample  TextSample  Text</span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            }
+          },
+          "_name": "msg-box7",
+          "_anchor": "msg-box7-1",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/905895-909991859092379-286357517770538081-o-2000x1333-82.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/desert.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=kw4tT7SCmaY",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": "on"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "RURAL ILLUMINA",
+          "text": "Full width intro with adjustable height, background image, parallax effect and a video section. Note that paddings are extended here.<br>Full width intro with adjustable height, background image, parallax effect and a video section. Note that paddings are extended here.<br><br>Full width intro with adjustable height, background image, parallax effect and a video section. Note that paddings are extended here.<br><br>Full width intro with adjustable height, background image, parallax effect and a video section. Note that paddings are extended here.<br>Full width intro with adjustable height, background image, parallax effect and a video section. Note that paddings are extended here.<br><br>Full width intro with adjustable height, background image, parallax effect and a video section. Note that paddings are extended here.<br>Full width intro with adjustable height,<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            }
+          },
+          "_name": "msg-box7",
+          "_anchor": "msg-box7-2",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1399788-524652664292969-1126824541-o-2000x1325-44.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/desert.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": "on"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "MALL ILLUMINA",
+          "text": "Full width intro with adjustable height, background image, parallax effect and a video section. Note that paddings are extended here.<br><br>Full width intro with adjustable height, background image, parallax effect and a video section. Note that paddings are extended here.<br><br>Full width intro with adjustable height, background image, parallax effect and a video section. Note that paddings are extended here.<br><br>Full width intro with adjustable height, background image, parallax effect and a video section. Note that paddings are extended here.<br><br>Full width intro with adjustable height, background image, parallax effect and a video section. Note that paddings are extended here.<br><br>Full width intro with adjustable height, background image, parallax effect and a video<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            }
+          },
+          "_name": "msg-box7",
+          "_anchor": "msg-box7-3",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1402986-524497977641771-1028122333-o-2000x1325-75.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/desert.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": "on"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "EXPRESSIONS",
+          "text": "Full width intro with adjustable height, background image, parallax effect and a video section. Note that paddings are extended here.<br>Full width intro with adjustable height, background image, parallax effect and a video section. Note that paddings are extended here.<br>Full width intro with adjustable height, background image, parallax effect and a video section. Note that paddings are extended here.<br><br>Full width intro with adjustable height, background image, parallax effect and a video section. Note that paddings are extended here.<br><br>Full width intro with adjustable height, background image, parallax effect and a video section. Note that paddings are extended here.<br><br>Full width intro with adjustable height, background image, parallax effect and a video section. Note that paddings are extended here.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_name": "contacts1",
