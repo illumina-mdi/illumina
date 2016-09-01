@@ -465,10 +465,10 @@
                 "thumb": "@PROJECT_PATH@/assets/images/code-man-2000x1333-33-2000x1333-56.jpg",
                 "image": "@PROJECT_PATH@/assets/images/code-man-2000x1333-33.jpg",
                 "caption": "Amrutha",
-                "active": false
+                "active": true
               },
               {
-                "tags": "Event Management",
+                "tags": "Creativity",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -635,7 +635,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/code-man-2000x1333-33-2000x1333-56.jpg",
                 "image": "@PROJECT_PATH@/assets/images/code-man-2000x1333-33.jpg",
                 "caption": "Siddharth",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Market Research",
