@@ -40,7 +40,7 @@
             ".mbr-section-title": {
               "font-family": "'Noto Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
-              "font-size": "60px"
+              "font-size": "48px"
             },
             ".lead P": {
               "font-family": "'Lato', sans-serif",
