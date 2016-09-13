@@ -1,8 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
+
+
+
 
 
 
@@ -33,7 +37,7 @@
 #menu-0 .link,
 #menu-0 .dropdown-item {
   color: #ffffff;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Noto Sans', sans-serif;
 }
 #menu-0 .link {
   font-size: 0.85rem;
@@ -90,7 +94,7 @@
   background-color: #ffffff;
 }
 #menu-0 .btn {
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Noto Sans', sans-serif;
 }
 #msg-box7-0 .mbr-section-title,
 #msg-box7-0 .lead p {
@@ -129,7 +133,7 @@
 #menu-0 .link,
 #menu-0 .dropdown-item {
   color: #ffffff;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Noto Sans', sans-serif;
 }
 #menu-0 .link {
   font-size: 0.85rem;
@@ -186,7 +190,7 @@
   background-color: #ffffff;
 }
 #menu-0 .btn {
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Noto Sans', sans-serif;
 }
 
 
@@ -220,7 +224,7 @@
 #menu-0 .link,
 #menu-0 .dropdown-item {
   color: #ffffff;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Noto Sans', sans-serif;
 }
 #menu-0 .link {
   font-size: 0.85rem;
@@ -277,7 +281,7 @@
   background-color: #ffffff;
 }
 #menu-0 .btn {
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Noto Sans', sans-serif;
 }
 #header1-1 H1 {
   font-size: 48px;
@@ -317,7 +321,7 @@
 #menu-0 .link,
 #menu-0 .dropdown-item {
   color: #ffffff;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Noto Sans', sans-serif;
 }
 #menu-0 .link {
   font-size: 0.85rem;
@@ -374,7 +378,7 @@
   background-color: #ffffff;
 }
 #menu-0 .btn {
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Noto Sans', sans-serif;
 }
 
 
@@ -390,7 +394,7 @@
 #menu-0 .link,
 #menu-0 .dropdown-item {
   color: #ffffff;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Noto Sans', sans-serif;
 }
 #menu-0 .link {
   font-size: 0.85rem;
@@ -447,5 +451,5 @@
   background-color: #ffffff;
 }
 #menu-0 .btn {
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Noto Sans', sans-serif;
 }

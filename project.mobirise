@@ -6,11 +6,25 @@
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
-      "title": "Mobirise 3"
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#7e9b9f",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true
+      }
     },
     "scrollAnimation": "true",
     "publishType": "local",
-    "publishPath": "file:///Users/brian/Desktop/Illumina/Website/illumina-gh"
+    "publishPath": "file:///Users/brian/Desktop/Illumina/Website/illumina-gh",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "Ilumina.html": {
@@ -191,8 +205,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-family": "'Indie Flower', cursive"
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
+              "font-family": "'Noto Sans', sans-serif"
             },
             ".link": {
               "font-size": "0.85rem"
@@ -236,8 +250,8 @@
               "background-color": "#ffffff"
             },
             ".btn": {
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
             }
           },
           "_name": "menu",
@@ -246,9 +260,9 @@
             "bgColor": "#000000",
             "fontSize": "0.85",
             "fontName": {
-              "name": "Indie Flower",
-              "url": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "css": "'Indie Flower', cursive"
+              "name": "Noto Sans",
+              "url": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
+              "css": "'Noto Sans', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "#c0a375",
@@ -305,9 +319,9 @@
           "_name": "msg-box7",
           "_anchor": "msg-box7-0",
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": "6",
             "paddingBottom": "1",
-            "parallax": true,
+            "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/1397676-524647490960153-1009792802-o-2000x1325-8.jpg",
             "bgColor": "#2969b0",
@@ -365,7 +379,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "1",
-            "parallax": true,
+            "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/905895-909991859092379-286357517770538081-o-2000x1333-82.jpg",
             "bgColor": "#fff",
@@ -416,7 +430,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "1",
-            "parallax": true,
+            "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/1399788-524652664292969-1126824541-o-2000x1325-44.jpg",
             "bgColor": "#fff",
@@ -426,7 +440,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
+            "overlayOpacity": "0.8",
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
@@ -467,7 +481,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "1",
-            "parallax": true,
+            "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/1402986-524497977641771-1028122333-o-2000x1325-75.jpg",
             "bgColor": "#fff",
@@ -477,7 +491,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
+            "overlayOpacity": "0.6",
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
@@ -922,8 +936,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-family": "'Indie Flower', cursive"
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
+              "font-family": "'Noto Sans', sans-serif"
             },
             ".link": {
               "font-size": "0.85rem"
@@ -967,8 +981,8 @@
               "background-color": "#ffffff"
             },
             ".btn": {
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
             }
           },
           "_name": "menu",
@@ -977,9 +991,9 @@
             "bgColor": "#000000",
             "fontSize": "0.85",
             "fontName": {
-              "name": "Indie Flower",
-              "url": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "css": "'Indie Flower', cursive"
+              "name": "Noto Sans",
+              "url": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
+              "css": "'Noto Sans', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "#c0a375",
@@ -1164,8 +1178,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-family": "'Indie Flower', cursive"
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
+              "font-family": "'Noto Sans', sans-serif"
             },
             ".link": {
               "font-size": "0.85rem"
@@ -1209,8 +1223,8 @@
               "background-color": "#ffffff"
             },
             ".btn": {
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
             }
           },
           "_name": "menu",
@@ -1219,9 +1233,9 @@
             "bgColor": "#000000",
             "fontSize": "0.85",
             "fontName": {
-              "name": "Indie Flower",
-              "url": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "css": "'Indie Flower', cursive"
+              "name": "Noto Sans",
+              "url": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
+              "css": "'Noto Sans', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "#c0a375",
@@ -1675,8 +1689,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-family": "'Indie Flower', cursive"
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
+              "font-family": "'Noto Sans', sans-serif"
             },
             ".link": {
               "font-size": "0.85rem"
@@ -1720,8 +1734,8 @@
               "background-color": "#ffffff"
             },
             ".btn": {
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
             }
           },
           "_name": "menu",
@@ -1730,9 +1744,9 @@
             "bgColor": "#000000",
             "fontSize": "0.85",
             "fontName": {
-              "name": "Indie Flower",
-              "url": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "css": "'Indie Flower', cursive"
+              "name": "Noto Sans",
+              "url": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
+              "css": "'Noto Sans', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "#c0a375",
@@ -1832,8 +1846,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-family": "'Indie Flower', cursive"
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
+              "font-family": "'Noto Sans', sans-serif"
             },
             ".link": {
               "font-size": "0.85rem"
@@ -1877,8 +1891,8 @@
               "background-color": "#ffffff"
             },
             ".btn": {
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
             }
           },
           "_name": "menu",
@@ -1887,9 +1901,9 @@
             "bgColor": "#000000",
             "fontSize": "0.85",
             "fontName": {
-              "name": "Indie Flower",
-              "url": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "css": "'Indie Flower', cursive"
+              "name": "Noto Sans",
+              "url": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
+              "css": "'Noto Sans', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "#c0a375",
