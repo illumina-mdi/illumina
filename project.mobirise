@@ -20,11 +20,11 @@
         "isRoundedButtons": true
       }
     },
-    "scrollAnimation": "true",
+    "scrollAnimation": "",
     "publishType": "local",
     "publishPath": "file:///Users/brian/Desktop/Illumina/Website/illumina-gh",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "true"
   },
   "pages": {
     "Ilumina.html": {
