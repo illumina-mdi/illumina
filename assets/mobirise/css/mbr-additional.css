@@ -302,12 +302,16 @@
 
 
 
+
+
+
 #header3-0 .mbr-section-title,
 #header3-0 .mbr-section-subtitle {
   text-align: center;
 }
 #header3-0 H3 {
   font-family: 'Titillium Web', sans-serif;
+  font-size: 30px;
 }
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
@@ -379,6 +383,30 @@
 }
 #menu-0 .btn {
   font-family: 'Noto Sans', sans-serif;
+}
+#header3-1 .mbr-section-title,
+#header3-1 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1 H3 {
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 30px;
+}
+#header3-2 .mbr-section-title,
+#header3-2 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2 H3 {
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 30px;
+}
+#header3-3 .mbr-section-title,
+#header3-3 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3 H3 {
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 30px;
 }
 
 
