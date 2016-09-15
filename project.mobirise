@@ -1565,13 +1565,14 @@
             "H3": {
               "font-family": "'Titillium Web', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
-              "font-size": "30px"
+              "font-size": "30px",
+              "color": "#232323"
             }
           },
           "_name": "header3",
           "_anchor": "header3-0",
           "_params": {
-            "paddingTop": "6",
+            "paddingTop": "7",
             "paddingBottom": "0",
             "bgColor": "#fff",
             "showMeta": false
