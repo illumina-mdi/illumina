@@ -314,6 +314,9 @@
   font-size: 30px;
   color: #232323;
 }
+#header3-0 P {
+  color: #b8312f;
+}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
