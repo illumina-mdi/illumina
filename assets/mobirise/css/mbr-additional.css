@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
@@ -195,14 +195,11 @@
 
 
 
-#header3-0 .mbr-section-title,
-#header3-0 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-0 H3 {
-  color: #ffffff;
-  text-align: right;
-  font-family: 'Raleway', sans-serif;
+
+
+#msg-box8-1 .mbr-section-title,
+#msg-box8-1 p {
+  color: #fff;
 }
 #msg-box8-0 .mbr-section-title,
 #msg-box8-0 p {
@@ -290,14 +287,30 @@
   font-size: 20px;
   text-align: center;
 }
+#header1-1 .mbr-section-lead {
+  font-family: 'Raleway', sans-serif;
+}
 #header1-2 H1 {
   font-size: 48px;
 }
 #header1-2 P {
   font-size: 20px;
 }
-#slider3-0 H2 {
+#header1-2 .mbr-section-lead {
+  font-family: 'Raleway', sans-serif;
+}
+#slider2-0 .mbr-section-title,
+#slider2-0 .mbr-section-lead {
+  color: #fff;
+}
+#slider2-0 H2 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 30px;
+  color: #28324e;
   text-align: center;
+}
+#slider2-0 SPAN {
+  color: #fac51c;
 }
 
 
@@ -315,7 +328,7 @@
   color: #232323;
 }
 #header3-0 P {
-  color: #b8312f;
+  color: #000000;
 }
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
