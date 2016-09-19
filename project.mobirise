@@ -1091,6 +1091,11 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "32px"
             }
           },
           "_name": "msg-box8",
@@ -1150,7 +1155,7 @@
           "_name": "social-buttons4",
           "_anchor": "social-buttons4-0",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,

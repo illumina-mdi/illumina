@@ -197,9 +197,14 @@
 
 
 
+
 #msg-box8-1 .mbr-section-title,
 #msg-box8-1 p {
   color: #fff;
+}
+#msg-box8-1 .mbr-section-title {
+  font-family: 'Raleway', sans-serif;
+  font-size: 32px;
 }
 #social-buttons4-0 .mbr-section-title,
 #social-buttons4-0 .btn-social {
