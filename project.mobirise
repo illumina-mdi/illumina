@@ -291,7 +291,9 @@
               "font-size": "18px"
             },
             ".mbr-section-title": {
-              "font-size": "36px"
+              "font-size": "36px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             },
             ".btn": {
               "font-size": "12px"
@@ -323,6 +325,25 @@
         },
         {
           "_name": "testimonials2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-size": "36px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#f3c649",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".card-footer > div": {
+              "color": "#faaf40",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".card-block P": {
+              "color": "#000000"
+            }
+          },
           "testimonial": [
             {
               "text": "<p>Illumina in literal sense means – ‘to enable to know and understand’, it also means ‘to enlighten’. With this thought 20 years back a ritual was started by mandevians during the festival of light i.e. dussehra/deepawali at MDI Gurgaon called- Illumina. It is all about knowing the ‘unknown’. Students collect consumer insights by using various market research techniques and present detailed analysis/reports to the companies. The beauty of Illumina is that all of this is done in the form of disguised research. Illumina is all about surfacing the reality and bringing it to practice. I wish team Illumina for completing 20 years and let this tradition continue for eternity.</p>",
@@ -366,6 +387,9 @@
             "count": "2",
             "paddingTop": "1",
             "paddingBottom": 3,
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
@@ -375,32 +399,10 @@
             "overlayOpacity": 0.2,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubtitle": true,
-            "showImages": true,
-            "showName": true,
-            "showBio": true
+            "showSubtitle": true
           },
           "title": "TESTIMONIALS",
-          "subtitle": "<span style=\"font-style: normal;\">Our Heart Beats For Appreciation</span>",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#ffffff",
-              "font-size": "36px"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#f3c649",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            },
-            ".card-footer > div": {
-              "color": "#faaf40",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            ".card-block P": {
-              "color": "#000000"
-            }
-          }
+          "subtitle": "<span style=\"font-style: normal;\">Our Heart Beats For Appreciation...</span>"
         },
         {
           "_styles": {
@@ -2176,8 +2178,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/acnielsen-logo-500x200-95.png",
-                "image": "@PROJECT_PATH@/assets/images/ACNielsen_logo.png",
+                "thumb": "@PROJECT_PATH@/assets/images/nielsen-logo-2000x800-38-2000x800-71.jpg",
+                "image": "@PROJECT_PATH@/assets/images/nielsen-logo-2000x800-38.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
