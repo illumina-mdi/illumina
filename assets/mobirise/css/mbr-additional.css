@@ -1,10 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
+
 
 
 
@@ -122,6 +124,7 @@
 }
 #testimonials2-0 .mbr-section-subtitle {
   color: #f3c649;
+  font-family: 'Open Sans', sans-serif;
 }
 #testimonials2-0 .card-footer > div {
   color: #faaf40;
@@ -130,12 +133,9 @@
 #testimonials2-0 .card-block P {
   color: #000000;
 }
-#header3-0 .mbr-section-title,
-#header3-0 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-0 H3 {
-  color: #ffffff;
+#msg-box8-0 .mbr-section-title,
+#msg-box8-0 p {
+  color: #fff;
 }
 #slider2-0 .mbr-section-title,
 #slider2-0 .mbr-section-lead {
@@ -149,10 +149,6 @@
 }
 #slider2-0 SPAN {
   color: #fac51c;
-}
-#social-buttons3-0 .mbr-section-title,
-#social-buttons3-0 .btn-social {
-  color: #fff;
 }
 
 

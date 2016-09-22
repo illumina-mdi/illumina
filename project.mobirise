@@ -106,7 +106,7 @@
           "_name": "social-buttons4",
           "_anchor": "social-buttons4-0",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
@@ -291,15 +291,15 @@
             "parallax": false,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-4415-2000x1284-91.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
+            "overlay": true,
+            "overlayOpacity": "0.7",
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
@@ -307,7 +307,7 @@
             "showButtons": true
           },
           "title": "MDI, GURGAON",
-          "text": "MDI is one of the top B-Schools of the country. The institute integrates knowledge, research, industry experience and international exposure to offer comprehensive management programmes. MDI has the distinction of being the first internationally accredited Indian B-School. It was accredited by South Asian Quality Systems (SAQS) in 2005. The long term Education Programmes are accredited by Association of MBAs (AMBA), U.K.<br><br>The PG Programmes in Management offered by MDI are recognized and accredited by the All India Council for Technical Education (AICTE) New Delhi. Its PGPM has been awarded A Grade by the National Board of Accreditation of All India Council for Technical Education. Various surveys have consistently ranked MDI amongst the top B-Schools of the country.<br>",
+          "text": "MDI is one of the top B-Schools of the country. The institute integrates knowledge, research, industry experience and international exposure to offer comprehensive management programmes. MDI has the distinction of being the first internationally accredited Indian B-School. It was accredited by South Asian Quality Systems (SAQS) in 2005. The long term Education Programmes are accredited by Association of MBAs (AMBA), U.K.<br><br>The PG Programmes in Management offered by MDI are recognized and accredited by the All India Council for Technical Education (AICTE) New Delhi. Its PGPM has been awarded A Grade by the National Board of Accreditation of All India Council for Technical Education. Various surveys have consistently ranked MDI amongst the top B-Schools of the country.<br><br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://mdi.ac.in\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE ABOUT MDI</a>"
         },
         {
@@ -370,13 +370,15 @@
             "showBio": true
           },
           "title": "TESTIMONIALS",
-          "subtitle": "Our Heart Beats For Appreciation",
+          "subtitle": "<span style=\"font-style: normal;\">Our Heart Beats For Appreciation</span>",
           "_styles": {
             ".mbr-section-title": {
               "color": "#ffffff"
             },
             ".mbr-section-subtitle": {
-              "color": "#f3c649"
+              "color": "#f3c649",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             ".card-footer > div": {
               "color": "#faaf40",
@@ -390,23 +392,34 @@
         },
         {
           "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "color": "#ffffff"
+            ".mbr-section-title, p": {
+              "color": "#fff"
             }
           },
-          "_name": "header3",
-          "_anchor": "header3-0",
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-0",
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": "3",
             "paddingBottom": "0",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "bgColor": "#000000",
-            "showMeta": false
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
           },
           "title": "MEMORIES...",
-          "meta": "By John Smith posted July 20, 2016"
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_styles": {
@@ -776,7 +789,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -818,34 +831,6 @@
           "text1": "<strong>Address</strong><br>Management Development Institute,<br>Sukhrali, Gurgaon, 122007",
           "text2": "<strong>Contacts</strong><br>\nEmail: illumina@mdi.ac.in<br>\nPhone:&nbsp;+91 -8588905231<br>",
           "text3": ""
-        },
-        {
-          "_inherit": "social-buttons1",
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
-            }
-          },
-          "_name": "social-buttons3",
-          "_anchor": "social-buttons3-0",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "facebook": true,
-            "twitter": true,
-            "google": true,
-            "vkontakte": false,
-            "odnoklassniki": false
-          },
-          "text": "SHARE THIS PAGE!"
         }
       ]
     },
@@ -1324,7 +1309,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1643,7 +1628,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -2039,7 +2024,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -2517,7 +2502,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
