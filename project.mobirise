@@ -106,7 +106,7 @@
           "_name": "social-buttons4",
           "_anchor": "social-buttons4-0",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
@@ -124,7 +124,7 @@
           "_name": "buttons1",
           "_anchor": "buttons1-0",
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "7",
             "bgColor": "#000000"
           },
@@ -883,8 +883,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/akshey-2000x2000-78-2000x2000-10.png",
+                "image": "@PROJECT_PATH@/assets/images/akshey-2000x2000-78.png",
                 "caption": "Akshey",
                 "active": false
               },
@@ -893,8 +893,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/deepawal-2000x2000-57-2000x2000-7.png",
+                "image": "@PROJECT_PATH@/assets/images/deepawal-2000x2000-57.png",
                 "caption": "Deepawal",
                 "active": false
               },
@@ -963,8 +963,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sanil-2000x2000-31-2000x2000-48.png",
+                "image": "@PROJECT_PATH@/assets/images/sanil-2000x2000-31.png",
                 "caption": "Sanil",
                 "active": false
               },
@@ -973,8 +973,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/shivi-2000x2000-82-2000x2000-59.png",
+                "image": "@PROJECT_PATH@/assets/images/shivi-2000x2000-82.png",
                 "caption": "Shivi",
                 "active": false
               },
@@ -993,8 +993,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/code-man-2000x1333-33-2000x1333-56.jpg",
-                "image": "@PROJECT_PATH@/assets/images/code-man-2000x1333-33.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/aditya-2000x2000-93-2000x2000-39.png",
+                "image": "@PROJECT_PATH@/assets/images/aditya-2000x2000-93.png",
                 "caption": "Aditya",
                 "active": false
               },
@@ -1006,7 +1006,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/code-man-2000x1333-33-2000x1333-56.jpg",
                 "image": "@PROJECT_PATH@/assets/images/code-man-2000x1333-33.jpg",
                 "caption": "Amrutha",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creativity",
@@ -1023,10 +1023,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/code-man-2000x1333-33-2000x1333-56.jpg",
-                "image": "@PROJECT_PATH@/assets/images/code-man-2000x1333-33.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/anurag-2000x2000-95-2000x2000-66.png",
+                "image": "@PROJECT_PATH@/assets/images/anurag-2000x2000-95.png",
                 "caption": "Anurag",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Creativity",
@@ -1133,8 +1133,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/code-man-2000x1333-33-2000x1333-56.jpg",
-                "image": "@PROJECT_PATH@/assets/images/code-man-2000x1333-33.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rishabh-2000x2000-44-2000x2000-1.png",
+                "image": "@PROJECT_PATH@/assets/images/rishabh-2000x2000-44.png",
                 "caption": "Rishabh",
                 "active": false
               },
@@ -1143,8 +1143,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/code-man-2000x1333-33-2000x1333-56.jpg",
-                "image": "@PROJECT_PATH@/assets/images/code-man-2000x1333-33.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/shikhar-2000x2000-63-2000x2000-13.png",
+                "image": "@PROJECT_PATH@/assets/images/shikhar-2000x2000-63.png",
                 "caption": "Shikhar",
                 "active": false
               },
@@ -1153,8 +1153,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/code-man-2000x1333-33-2000x1333-56.jpg",
-                "image": "@PROJECT_PATH@/assets/images/code-man-2000x1333-33.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/shubhangini-2000x2000-4-2000x2000-97.png",
+                "image": "@PROJECT_PATH@/assets/images/shubhangini-2000x2000-4.png",
                 "caption": "Shubhangini",
                 "active": false
               },
@@ -1173,8 +1173,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/code-man-2000x1333-33-2000x1333-56.jpg",
-                "image": "@PROJECT_PATH@/assets/images/code-man-2000x1333-33.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/siddharth-2000x2000-89-2000x2000-98.png",
+                "image": "@PROJECT_PATH@/assets/images/siddharth-2000x2000-89.png",
                 "caption": "Siddharth",
                 "active": false
               },
