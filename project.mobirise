@@ -243,7 +243,11 @@
             },
             ".mbr-section-lead": {
               "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "18px"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
             }
           },
           "_anchor": "header1-1",
@@ -268,7 +272,7 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "ILLUMINA 2016",
+          "title": "ILLUMINA 2016<br><br>",
           "text": "The Disguised Market Research Festival of MDI, Gurgaon<br><br>Every puzzle has a solution, but when the puzzle is about delving into consumer psyche, it is a tough nut to crack. Illumina, the disguised market research festival of MDI, Gurgaon has been providing corporates with that unique opportunity to study consumer behavior.<br><br>&nbsp;Illumina is the annual disguised marketing research event held by the students of MDI, under constant guidance of the faculty. Traditionally, it is conducted in 4 formats, but to stay abreast of the times, we are adding another format - E'Llumina to our arsenal this year. Through these 5 formats, we aim to target demographies across all SECs.<br><br>Disguised as a traditional Diwali Mela, Illumina attracts a footfall in excess of 8000, thereby providing companies with a huge population base to pick the relevant sample for their research problems.<br><br>Incepted in 1997, Illumina enjoys an association with some of the biggest names in the industry including Pepsi, ITC, RPG Spencers, Airtel, SBI, Nokia, Dabur, Flipkart and many more.<br><br><br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>"
         },
@@ -283,7 +287,14 @@
             },
             ".mbr-section-lead": {
               "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "18px"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            },
+            ".btn": {
+              "font-size": "12px"
             }
           },
           "_anchor": "header1-2",
@@ -306,7 +317,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "MDI, GURGAON",
+          "title": "MDI, GURGAON<br><br>",
           "text": "MDI is one of the top B-Schools of the country. The institute integrates knowledge, research, industry experience and international exposure to offer comprehensive management programmes. MDI has the distinction of being the first internationally accredited Indian B-School. It was accredited by South Asian Quality Systems (SAQS) in 2005. The long term Education Programmes are accredited by Association of MBAs (AMBA), U.K.<br><br>The PG Programmes in Management offered by MDI are recognized and accredited by the All India Council for Technical Education (AICTE) New Delhi. Its PGPM has been awarded A Grade by the National Board of Accreditation of All India Council for Technical Education. Various surveys have consistently ranked MDI amongst the top B-Schools of the country.<br><br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://mdi.ac.in\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE ABOUT MDI</a>"
         },
@@ -317,7 +328,7 @@
               "text": "<p>Illumina in literal sense means – ‘to enable to know and understand’, it also means ‘to enlighten’. With this thought 20 years back a ritual was started by mandevians during the festival of light i.e. dussehra/deepawali at MDI Gurgaon called- Illumina. It is all about knowing the ‘unknown’. Students collect consumer insights by using various market research techniques and present detailed analysis/reports to the companies. The beauty of Illumina is that all of this is done in the form of disguised research. Illumina is all about surfacing the reality and bringing it to practice. I wish team Illumina for completing 20 years and let this tradition continue for eternity.</p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/kirti-maam-160x156-13.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/drkirtisharma-154x160-43.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -373,7 +384,8 @@
           "subtitle": "<span style=\"font-style: normal;\">Our Heart Beats For Appreciation</span>",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "36px"
             },
             ".mbr-section-subtitle": {
               "color": "#f3c649",
@@ -394,6 +406,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
             }
           },
           "_name": "msg-box8",
@@ -845,7 +860,8 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "36px"
             }
           },
           "_name": "content5",
@@ -1365,13 +1381,14 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "font-family": "'Noto Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
-              "font-size": "48px"
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "36px"
             },
             ".lead P": {
               "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "18px"
             }
           },
           "_name": "msg-box8",
@@ -1641,6 +1658,12 @@
           "_styles": {
             ".mbr-section-title, .lead p": {
               "color": "#fff"
+            },
+            "H3": {
+              "font-size": "36px"
+            },
+            "P": {
+              "font-size": "18px"
             }
           },
           "_name": "msg-box7",
@@ -1699,6 +1722,9 @@
           "_styles": {
             ".mbr-section-title, .lead p": {
               "color": "#fff"
+            },
+            "H3": {
+              "font-size": "36px"
             }
           },
           "_name": "msg-box7",
@@ -1750,6 +1776,9 @@
           "_styles": {
             ".mbr-section-title, .lead p": {
               "color": "#fff"
+            },
+            "H3": {
+              "font-size": "36px"
             }
           },
           "_name": "msg-box7",
@@ -1801,6 +1830,9 @@
           "_styles": {
             ".mbr-section-title, .lead p": {
               "color": "#fff"
+            },
+            "H3": {
+              "font-size": "36px"
             }
           },
           "_name": "msg-box7",
@@ -2514,18 +2546,26 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "36px",
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#565656"
             }
           },
           "_name": "content5",
           "_anchor": "content5-0",
           "_params": {
             "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
+            "paddingBottom": "0",
+            "bgImageRadio": false,
             "parallax": false,
             "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
             "bgColor": "#fff",
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -2543,7 +2583,7 @@
           "_name": "form1",
           "_styles": {
             ".form-control-label": {
-              "color": "#232323"
+              "color": "#000000"
             },
             ".mbr-section-title": {
               "font-size": "30px",
@@ -2553,7 +2593,7 @@
           },
           "_anchor": "form1-0",
           "_params": {
-            "labelsColor": "#232323",
+            "labelsColor": "#000000",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
