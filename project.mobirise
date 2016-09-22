@@ -311,6 +311,104 @@
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://mdi.ac.in\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE ABOUT MDI</a>"
         },
         {
+          "_name": "testimonials2",
+          "testimonial": [
+            {
+              "text": "<p>Illumina in literal sense means – ‘to enable to know and understand’, it also means ‘to enlighten’. With this thought 20 years back a ritual was started by mandevians during the festival of light i.e. dussehra/deepawali at MDI Gurgaon called- Illumina. It is all about knowing the ‘unknown’. Students collect consumer insights by using various market research techniques and present detailed analysis/reports to the companies. The beauty of Illumina is that all of this is done in the form of disguised research. Illumina is all about surfacing the reality and bringing it to practice. I wish team Illumina for completing 20 years and let this tradition continue for eternity.</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/kirti-maam-160x156-13.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "https://www.linkedin.com/in/dr-kirti-sharma-03b4091",
+                  "alt": "",
+                  "title": "Dr. Kirti Sharma",
+                  "linkInNewWindow": true
+                }
+              },
+              "authorName": "Dr. Kirti Sharma",
+              "authorBio": "Professor, Marketing, MDI Gurgaon"
+            },
+            {
+              "text": "<p>Illumina USP is basically that it provides unbiased results of surveys to the companies. On one hand, companies get to have detailed analysis reports of a market research which would showcase the real picture and on the other side it provide opportunity to the mandevians to work on a live project. Also as it is organised in different formats so that the products are relevant to the target group.</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/rachit-160x152-72.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "https://in.linkedin.com/in/rachit-kuchhal-45708621",
+                  "alt": "",
+                  "title": "Rachit Kuchhal",
+                  "linkInNewWindow": true
+                }
+              },
+              "authorName": "Rachit Kuchhal",
+              "authorBio": "Assistant Manager, Idea Cellular Ltd."
+            }
+          ],
+          "_anchor": "testimonials2-0",
+          "_params": {
+            "count": "2",
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true,
+            "showImages": true,
+            "showName": true,
+            "showBio": true
+          },
+          "title": "TESTIMONIALS",
+          "subtitle": "Our Heart Beats For Appreciation",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#f3c649"
+            },
+            ".card-footer > div": {
+              "color": "#faaf40",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".card-block P": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "header3",
+          "_anchor": "header3-0",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#000000",
+            "showMeta": false
+          },
+          "title": "MEMORIES...",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
           "_styles": {
             ".mbr-section-title, .mbr-section-lead": {
               "color": "#fff"
@@ -330,8 +428,8 @@
           "_params": {
             "autoplay": true,
             "timeout": "3",
-            "paddingTop": "6",
-            "paddingBottom": "6",
+            "paddingTop": "2",
+            "paddingBottom": "4",
             "slides": [
               {
                 "active": false,
@@ -670,85 +768,6 @@
           "_anchor": "slider2-0"
         },
         {
-          "_name": "testimonials1",
-          "testimonial": [
-            {
-              "text": "<p>Illumina in literal sense means – ‘to enable to know and understand’, it also means ‘to enlighten’. With this thought 20 years back a ritual was started by mandevians during the festival of light i.e. dussehra/deepawali at MDI Gurgaon called- Illumina. It is all about knowing the ‘unknown’. Students collect consumer insights by using various market research techniques and present detailed analysis/reports to the companies. The beauty of Illumina is that all of this is done in the form of disguised research. Illumina is all about surfacing the reality and bringing it to practice. I wish team Illumina for completing 20 years and let this tradition continue for eternity.</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face3.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              },
-              "authorName": "Abanoub S.",
-              "authorBio": "User"
-            },
-            {
-              "text": "<p>Illumina USP is basically that it provides unbiased results of surveys to the companies. On one hand, companies get to have detailed analysis reports of a market research which would showcase the real picture and on the other side it provide opportunity to the mandevians to work on a live project. Also as it is organised in different formats so that the products are relevant to the target group.</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face1.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              },
-              "authorName": "Suffian A.",
-              "authorBio": "User"
-            },
-            {
-              "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              },
-              "authorName": "Jhollman C.",
-              "authorBio": "User"
-            }
-          ],
-          "_anchor": "testimonials1-0",
-          "_params": {
-            "count": 3,
-            "paddingTop": "1",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": true,
-            "showImages": true,
-            "showName": true,
-            "showBio": true
-          },
-          "title": "TESTIMONIALS",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#cccccc"
-            },
-            ".card-footer > div": {
-              "color": "#faaf40"
-            }
-          }
-        },
-        {
           "_name": "footer1",
           "_anchor": "footer1-2",
           "_params": {
@@ -764,81 +783,6 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Illumina."
-        },
-        {
-          "_name": "testimonials2",
-          "testimonial": [
-            {
-              "text": "<p>Illumina in literal sense means – ‘to enable to know and understand’, it also means ‘to enlighten’. With this thought 20 years back a ritual was started by mandevians during the festival of light i.e. dussehra/deepawali at MDI Gurgaon called- Illumina. It is all about knowing the ‘unknown’. Students collect consumer insights by using various market research techniques and present detailed analysis/reports to the companies. The beauty of Illumina is that all of this is done in the form of disguised research. Illumina is all about surfacing the reality and bringing it to practice. I wish team Illumina for completing 20 years and let this tradition continue for eternity.</p>",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/kirti-maam-160x156-13.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": "",
-                  "linkInNewWindow": false
-                }
-              },
-              "authorName": "Dr. Kirti Sharma",
-              "authorBio": "Professor, Marketing, MDI"
-            },
-            {
-              "text": "<p>Illumina USP is basically that it provides unbiased results of surveys to the companies. On one hand, companies get to have detailed analysis reports of a market research which would showcase the real picture and on the other side it provide opportunity to the mandevians to work on a live project. Also as it is organised in different formats so that the products are relevant to the target group.</p>",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/rachit-160x152-72.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": "",
-                  "linkInNewWindow": false
-                }
-              },
-              "authorName": "Rachit Kuchhal",
-              "authorBio": "Assistant Manager, Idea Cellular Ltd."
-            }
-          ],
-          "_anchor": "testimonials2-0",
-          "_params": {
-            "count": "2",
-            "paddingTop": "1",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.2,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": true,
-            "showImages": true,
-            "showName": true,
-            "showBio": true
-          },
-          "title": "TESTIMONIALS",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#cccccc"
-            },
-            ".card-footer > div": {
-              "color": "#ffffff",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            }
-          }
         },
         {
           "_name": "contacts1",
