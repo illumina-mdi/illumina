@@ -3,6 +3,7 @@
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
 
 
@@ -198,6 +199,7 @@
 
 
 
+
 #msg-box8-1 .mbr-section-title,
 #msg-box8-1 p {
   color: #fff;
@@ -312,6 +314,29 @@
 }
 #slider2-0 SPAN {
   color: #fac51c;
+}
+#testimonials1-0 .mbr-section-title {
+  color: #ffffff;
+}
+#testimonials1-0 .mbr-section-subtitle {
+  color: #cccccc;
+}
+#testimonials1-0 .card-footer > div {
+  color: #faaf40;
+}
+#testimonials2-0 .mbr-section-title {
+  color: #ffffff;
+}
+#testimonials2-0 .mbr-section-subtitle {
+  color: #cccccc;
+}
+#testimonials2-0 .card-footer > div {
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+}
+#social-buttons3-0 .mbr-section-title,
+#social-buttons3-0 .btn-social {
+  color: #fff;
 }
 
 
