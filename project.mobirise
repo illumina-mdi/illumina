@@ -380,11 +380,29 @@
               },
               "authorName": "Rachit Kuchhal",
               "authorBio": "Assistant Manager, Idea Cellular Ltd."
+            },
+            {
+              "text": "<p>I have been accused of overusing this phrase, but still - Illumina is not just an event, it's a legacy. A legacy that connects corporates, students, faculties and the local public to celebrate marketing in a unique way. And Illumina has been doing this for two decades now and every year, getting bigger, better and grander. Hope we continue the momentum and keep illumina-ting!</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/jenson-159x160-89.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "https://in.linkedin.com/in/jenson-johny-7572439a",
+                  "alt": "",
+                  "title": "Jenson Johny",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Jenson Johny",
+              "authorBio": "Management Trainee, Whirlpool of India Ltd."
             }
           ],
           "_anchor": "testimonials2-0",
           "_params": {
-            "count": "2",
+            "count": "3",
             "paddingTop": "1",
             "paddingBottom": 3,
             "showImages": true,
