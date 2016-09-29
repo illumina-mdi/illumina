@@ -24,7 +24,7 @@
    /*---------------------------------------------------- */
 	/* Final Countdown Settings
 	------------------------------------------------------ */
-	var finalDate = '2016/10/23';
+	var finalDate = '2016/10/8';
 
 	$('div#counter').countdown(finalDate)
    	.on('update.countdown', function(event) {
